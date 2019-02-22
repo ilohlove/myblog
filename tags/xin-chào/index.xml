@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xin Chào on iLoHLove</title>
+    <link>https://example.com/tags/xin-ch%C3%A0o/</link>
+    <description>Recent content in Xin Chào on iLoHLove</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/xin-ch%C3%A0o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello world</title>
+      <link>https://example.com/posts/helloworld/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/helloworld/</guid>
+      <description>Introduction Hello world!. tn.png</description>
+    </item>
+    
+  </channel>
+</rss>
